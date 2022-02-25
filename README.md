@@ -1,1 +1,1 @@
-# NLP_topic_modeling_civic_budgets
+# Topic modeling: Project of linguistic analysis of participatory budgets
