@@ -1,6 +1,6 @@
 # Topic modeling: Project of linguistic analysis of participatory budgets
 W tym projekcie mam na celu za pomocą biblioteki Spacy przetworzyć polskojęzyczne tekstowe dane, przeanalizować oraz wyszukać NERy i N-gramy.
-Stosując bibl. Top2Vec wykonałem grupowanie projektów budżetów partycypacyjnych na tematy(grupy).
+Stosując bibl. Top2Vec wykonałem grupowanie projektów budżetów partycypacyjnych na tematy (grupy).
 
 ## Data set
 Zbiór z danych zawiera projekty budżetów partycypacyjnych z 66 miast na prawach powiatu z lat 2018-2020.
