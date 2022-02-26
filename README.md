@@ -3,7 +3,7 @@ W tym projekcie mam na celu za pomocą biblioteki Spacy przetworzyć polskojęzy
 Stosując bibl. Top2Vec wykonałem grupowanie projektów budżetów partycypacyjnych na tematy (grupy).
 
 ## Data set
-Zbiór z danych zawiera projekty budżetów partycypacyjnych z 66 miast na prawach powiatu z lat 2018-2020.
+Zbiór danych zawiera projekty budżetów partycypacyjnych z 66 miast na prawach powiatu z lat 2018-2020.
 Struktura danych w arkuszu: rok, kiedy dany projekt pojawił się w głosowaniu; miasto, gdzie został on złożony; nazwa projektu.
 Zbiór zawiera około 24 tysięcy obserwacji.
 
